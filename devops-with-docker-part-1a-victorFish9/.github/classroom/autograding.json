@@ -1,0 +1,94 @@
+{
+    "tests": [
+        {
+            "name": "00 example",
+            "setup": "",
+            "run": "cat ./section-0/ex00.txt | python3 ./.github/classroom/ex00_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 0
+        },
+        {
+            "name": "Exercise 1.1",
+            "setup": "",
+            "run": "cat ./section-1/ex11.txt | python3 ./.github/classroom/ex11_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 10
+        },
+        {
+            "name": "Exercise 1.2",
+            "setup": "",
+            "run": "cat ./section-1/ex12.txt | python3 ./.github/classroom/ex12_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 10
+        },
+        {
+            "name": "Exercise 1.3",
+            "setup": "",
+            "run": "cat ./section-2/ex13.txt | python3 ./.github/classroom/ex13_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 10
+        },
+        {
+            "name": "Exercise 1.4",
+            "setup": "",
+            "run": "cat ./section-2/ex14.txt | python3 ./.github/classroom/ex14_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 10
+        },
+        {
+            "name": "Exercise 1.5",
+            "setup": "",
+            "run": "cat ./section-3/ex15.txt | python3 ./.github/classroom/ex15_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 10
+        },
+        {
+            "name": "Exercise 1.6",
+            "setup": "",
+            "run": "cat ./section-3/ex16.txt | python3 ./.github/classroom/ex16_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 10
+        },
+        {
+            "name": "Exercise 1.7",
+            "setup": "",
+            "run": "cat ./section-3/Dockerfile | python3 ./.github/classroom/ex17_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 20
+        },
+        {
+            "name": "Exercise 1.8",
+            "setup": "",
+            "run": "cat ./section-3/server.Dockerfile | python3 ./.github/classroom/ex18_test.py",
+            "input": "",
+            "output": "",
+            "comparison": "included",
+            "timeout": 1,
+            "points": 20
+        }
+    ]
+}

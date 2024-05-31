@@ -1,0 +1,10 @@
+# Copy the commands you used to start process below this comment:
+
+docker exec -it cc8caba3700fd61733201d6cbad525780b4eaa4c66397ca5dcedfb684477c6df bash
+
+# Copy the command(s) you used to fix the ensuing problems below this comment:
+
+apt-get update
+apt-get y- install curl
+
+

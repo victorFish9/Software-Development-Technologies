@@ -1,0 +1,2 @@
+# Which command(s) did you use to complete the exercise 1.9?
+docker run -v "$(pwd):/usr/src/app" devopsdockeruh/simple-web-service 

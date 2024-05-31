@@ -1,0 +1,13 @@
+# Which command(s) did you use for displaying the image size(s)?
+
+docker images
+
+# Copy the output of the command(s) here:
+
+docker run devopsdockeruh/simple-web-service:ubuntu
+
+docker run devopsdockeruh/simple-web-service:alpine
+
+docker exec -it awesome_liskov sh
+
+cat text.log

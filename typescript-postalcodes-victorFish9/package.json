@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "ts-node ./src/postalcodes.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "ts-node": "^10",
+    "tslib": "^2",
+    "typescript": "^5"
+  }
+}

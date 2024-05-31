@@ -1,0 +1,7 @@
+# Copy the output of `docker ps -as` below this comment:
+
+CONTAINER ID   IMAGE         COMMAND                  CREATED          STATUS                      PORTS     NAMES                SIZE
+
+# Copy the output of `docker images` below this comment:
+
+REPOSITORY    TAG       IMAGE ID       CREATED        SIZE

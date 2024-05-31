@@ -1,0 +1,7 @@
+# Save the output for `docker ps -a` below. It should show 2 stopped containers and one running.
+
+
+CONTAINER ID   IMAGE         COMMAND                  CREATED          STATUS                      PORTS     NAMES                SIZE
+883526b41498   hello-world   "/hello"                 9 minutes ago    Exited (0) 9 minutes ago              exciting_khayyam     0B (virtual 9.14kB)
+5dfb551004e4   hello-world   "/hello"                 11 minutes ago   Exited (0) 11 minutes ago             determined_khorana   0B (virtual 9.14kB)
+945d245895e0   nginx         "/docker-entrypoint.…"   28 minutes ago   Up 6 seconds                80/tcp    beautiful_brown      1.09kB (virtual 192MB)

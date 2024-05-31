@@ -1,0 +1,12 @@
+# Fill the secret message below this line:
+Secret message is:'You can find the source code here: https://github.com/docker-hy'
+
+# Add the command(s) given below this line:
+
+docker run devopsdockeruh/simple-web-service:ubuntu
+
+docker container ls
+
+docker exec -it vibrant_wilson bash
+
+tail -f ./text.log
